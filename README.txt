@@ -1,5 +1,5 @@
 A_Star-Path-Finder
-A* Path Finding Algorithm implemented in Python with manhattan hieuristic.
+A* Path Finding Algorithm implemented in Python with Manhattan Heuristic. Pygame module is used to show the optimal path graphically from source node to the destination node by avoiding all the barriers. 
 
 Instructions
 Mouse Clicks:
